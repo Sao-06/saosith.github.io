@@ -1,5 +1,5 @@
 ---
-title: Home
+Home
 ---
 
 # Sao Aphisith Sithisack
